@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abdd8bec.css",
+    "main.js": "/static/js/main.8e87416f.js",
+    "static/js/787.61bb90aa.chunk.js": "/static/js/787.61bb90aa.chunk.js",
+    "static/media/venus.jpeg": "/static/media/venus.4b03f2d64e23f1c2b6a0.jpeg",
+    "static/media/mercury.jpeg": "/static/media/mercury.8f80953b60adac9859cd.jpeg",
+    "static/media/sun.jpeg": "/static/media/sun.4b569137334e61081651.jpeg",
+    "static/media/biology.jpeg": "/static/media/biology.ff9e90115ed031e27efa.jpeg",
+    "static/media/space.jpeg": "/static/media/space.c11994a0c49372b412f7.jpeg",
+    "static/media/stars.jpeg": "/static/media/stars.9704bf4476a8273d149a.jpeg",
+    "static/media/galaxy.jpeg": "/static/media/galaxy.8c3dcadf6e891358ee30.jpeg",
+    "static/media/geometry.jpeg": "/static/media/geometry.731aec6febce658c5abb.jpeg",
+    "static/media/physic.jpeg": "/static/media/physic.ad7776afca7684122d6d.jpeg",
+    "index.html": "/index.html",
+    "main.abdd8bec.css.map": "/static/css/main.abdd8bec.css.map",
+    "main.8e87416f.js.map": "/static/js/main.8e87416f.js.map",
+    "787.61bb90aa.chunk.js.map": "/static/js/787.61bb90aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abdd8bec.css",
+    "static/js/main.8e87416f.js"
+  ]
+}
